@@ -47,6 +47,21 @@
 
 ![photo_5379795397418620168_x](https://github.com/user-attachments/assets/c2a084f4-f1f8-41ef-9cdd-d1a3f0a5d361)
 
-2.4.1 Створення файлу через перенаправлення stdin/stdout
+2.4.1 Рис. 11 - Створення файлу через перенаправлення stdin/stdout
 
+![photo_5379795397418620174_x](https://github.com/user-attachments/assets/01e51942-1044-47b2-912e-640073de2121)
+
+2.4.2 Рис. 12 - Додавання рядка через stdout-потік
+
+![photo_5379795397418620186_x](https://github.com/user-attachments/assets/b82e7c10-3efc-40da-9169-f6b0c9011a3d)
+
+2.4.3 Рис. 13 - Створення файлу з інформацією про систему
+
+![photo_5379795397418620385_x](https://github.com/user-attachments/assets/fe8bfec7-8d52-49c6-a7e8-66458e75c9e5)
+
+2.4.4. Рис. 14 - Об’єднання файлів через cat
+
+![photo_5379795397418620351_x](https://github.com/user-attachments/assets/34980fbe-dca1-4c7a-8faa-0eccabf4aec4)
+
+2.4.5. Рис. 15 - Об’єднання файлів через paste
 
