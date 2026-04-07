@@ -31,7 +31,7 @@
 
 2.3.3 Рис. 7 - Додавання псевдонімів до файлу .bash_profile
 
-![photo_5379795397418620104_x](https://github.com/user-attachments/assets/7546babb-9924-420f-9565-5d7c99217f44)
+![photo_5379795397418620138_m](https://github.com/user-attachments/assets/775678b3-76e0-4269-b2cf-b0f72a7a9395)
 
 2.3.4. Рис. 8 - Завершення роботи з Git Bash
 
