@@ -12,3 +12,7 @@
  ![photo_5379795397418619896_x](https://github.com/user-attachments/assets/2c1bbeba-3655-4b6f-90c4-bd654e362f22)
 
 2.2.3. Рис. 3 – Перегляд файлу config через nano
+
+![photo_5379795397418619917_y](https://github.com/user-attachments/assets/71bf32cf-6f99-4545-9cd5-bbd72faaa81b)
+
+2.2.4. Рис. 4 - Вивід списку файлів у табличному форматі, відсортованих за розміром
