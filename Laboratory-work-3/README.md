@@ -38,3 +38,7 @@
 ![photo_5379795397418620134_x](https://github.com/user-attachments/assets/82aa021b-1f57-42f8-bf7c-5145deba928b)
 
 2.3.5 Рис. 9 - Перевірка автоматичного підключення псевдонімів
+
+![photo_5379795397418620145_x](https://github.com/user-attachments/assets/d3e798c4-f03a-4d80-8101-413ea0e88348)
+
+2.3.6 Рис. 10 - Копіювання файлу .bash_profile до репозиторію
