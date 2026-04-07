@@ -34,3 +34,7 @@
 ![photo_5379795397418620104_x](https://github.com/user-attachments/assets/7546babb-9924-420f-9565-5d7c99217f44)
 
 2.3.4. Рис. 8 - Завершення роботи з Git Bash
+
+![photo_5379795397418620134_x](https://github.com/user-attachments/assets/82aa021b-1f57-42f8-bf7c-5145deba928b)
+
+2.3.5 Рис. 9 - Перевірка автоматичного підключення псевдонімів
