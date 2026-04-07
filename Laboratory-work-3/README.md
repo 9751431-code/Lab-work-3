@@ -70,3 +70,23 @@
 2.4.6. Рис. 16 - Збереження змін у Git
 
 ### 4 Проста обробка результатів виконання команд
+
+![photo_5379795397418620404_x](https://github.com/user-attachments/assets/5de49d8f-5463-4b39-90f6-cf656ed7a2fc)
+
+2.5.1. Рис. 17 - Отримання переліку каталогів PATH
+
+![photo_5379795397418620405_y](https://github.com/user-attachments/assets/d79f5893-8486-4414-8535-bb0f66a40046)
+
+2.5.2. Рис. 18 -  Розбиття назв каталогів на складові
+
+![photo_5379795397418620409_x](https://github.com/user-attachments/assets/32c85ee2-dd23-4fb6-b9fa-d58f31faaa60)
+
+2.5.3. Рис. 19 - Сортування та видалення дублікатів
+
+![photo_5379795397418620498_x](https://github.com/user-attachments/assets/78753b77-5dc5-43b5-b2f9-2bc8bdad02ad)
+
+2.5.4. Рис. 20 - Вибір перших 5 елементів
+
+![photo_5379795397418620498_x](https://github.com/user-attachments/assets/0012a2cb-fd8d-4369-85a9-006a6f7bc266)
+
+2.5.5. Рис. 21 - Статистичний аналіз результату
