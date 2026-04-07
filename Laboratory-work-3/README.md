@@ -26,3 +26,7 @@
 ![photo_5379795397418620089_x](https://github.com/user-attachments/assets/3484d97d-a8a7-4a26-9bd4-45e29423123d)
 
 2.3.2 Рис. 6 - Створення псевдоніма для відображення дати
+
+![photo_5379795397418620104_x](https://github.com/user-attachments/assets/abd68060-4a1e-42ce-a131-be8885f8d5f2)
+
+2.3.3 Рис. 7 - Додавання псевдонімів до файлу .bash_profile
