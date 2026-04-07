@@ -65,3 +65,6 @@
 
 2.4.5. Рис. 15 - Об’єднання файлів через paste
 
+![photo_5379795397418620391_y](https://github.com/user-attachments/assets/c5fbb3d5-934b-414c-b718-0367d9aa6a8b)
+
+2.4.6. Рис. 16 - Збереження змін у Git
