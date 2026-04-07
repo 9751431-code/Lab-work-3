@@ -45,7 +45,7 @@
 
 ## 2.4 Робота з файлами через перенаправлення вхідних/вихідних потоків
 
-![photo_5379795397418620145_x](https://github.com/user-attachments/assets/300beecd-50a6-4033-bcf3-24f4828ae9db)
+![photo_5379795397418620168_x](https://github.com/user-attachments/assets/c2a084f4-f1f8-41ef-9cdd-d1a3f0a5d361)
 
 2.4.1 Створення файлу через перенаправлення stdin/stdout
 
