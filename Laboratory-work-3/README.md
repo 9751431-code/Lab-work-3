@@ -42,3 +42,11 @@
 ![photo_5379795397418620145_x](https://github.com/user-attachments/assets/d3e798c4-f03a-4d80-8101-413ea0e88348)
 
 2.3.6 Рис. 10 - Копіювання файлу .bash_profile до репозиторію
+
+## 2.4 Робота з файлами через перенаправлення вхідних/вихідних потоків
+
+![photo_5379795397418620145_x](https://github.com/user-attachments/assets/300beecd-50a6-4033-bcf3-24f4828ae9db)
+
+2.4.1 Створення файлу через перенаправлення stdin/stdout
+
+
