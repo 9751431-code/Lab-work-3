@@ -16,3 +16,8 @@
 ![photo_5379795397418619917_y](https://github.com/user-attachments/assets/71bf32cf-6f99-4545-9cd5-bbd72faaa81b)
 
 2.2.4. Рис. 4 - Вивід списку файлів у табличному форматі, відсортованих за розміром
+
+![photo_5379795397418619973_m](https://github.com/user-attachments/assets/00f11a7b-c829-4fdc-aa22-6636a2284df2)
+
+2.2.5. Рис. 5 - Повернення до попереднього каталогу (popd)
+
